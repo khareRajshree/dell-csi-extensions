@@ -1,4 +1,4 @@
-module github.com/dell/dell-csi-extensions/podmon
+module github.com/khareRajshree/dell-csi-extensions/podmon
 
 go 1.24
 
