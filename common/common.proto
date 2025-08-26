@@ -3,7 +3,7 @@ package common.v1;
 
 import "google/protobuf/wrappers.proto";
 
-option go_package = "github.com/dell/dell-csi-extensions/common";
+option go_package = "github.com/khareRajshree/dell-csi-extensions/common";
 
 
 message ProbeControllerRequest {
