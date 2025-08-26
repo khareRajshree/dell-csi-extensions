@@ -22,26 +22,26 @@ the source files.
 Each protocol is available as a `go module` and can be included separately in CSI drivers.
 
 If you are using `gocsi` for developing CSI driver, these extensions APIs can be used in CSI drivers by registering additional grpc servers while creating the `Storage Plugin` object.
-This facility is available in the forked version of gocsi [here](https://github.com/dell/gocsi).
+This facility is available in the forked version of gocsi [here](https://github.com/khareRajshree/gocsi).
 
-For using `podmon`, include "github.com/dell/dell-csi-extensions/podmon" in your go module dependencies.  
-For using `replication`, include "github.com/dell/dell-csi-extensions/replication" in your go module dependencies.
+For using `podmon`, include "github.com/khareRajshree/dell-csi-extensions/podmon" in your go module dependencies.  
+For using `replication`, include "github.com/khareRajshree/dell-csi-extensions/replication" in your go module dependencies.
 
 ## Table of Contents
 
-* [Code of Conduct](https://github.com/dell/csm/blob/main/docs/CODE_OF_CONDUCT.md)
-* [Maintainer Guide](https://github.com/dell/csm/blob/main/docs/MAINTAINER_GUIDE.md)
-* [Committer Guide](https://github.com/dell/csm/blob/main/docs/COMMITTER_GUIDE.md)
-* [Contributing Guide](https://github.com/dell/csm/blob/main/docs/CONTRIBUTING.md)
-* [List of Adopters](https://github.com/dell/csm/blob/main/docs/ADOPTERS.md)
-* [Support](https://github.com/dell/csm/blob/main/docs/SUPPORT.md)
-* [Security](https://github.com/dell/csm/blob/main/docs/SECURITY.md)
+* [Code of Conduct](https://github.com/khareRajshree/csm/blob/main/docs/CODE_OF_CONDUCT.md)
+* [Maintainer Guide](https://github.com/khareRajshree/csm/blob/main/docs/MAINTAINER_GUIDE.md)
+* [Committer Guide](https://github.com/khareRajshree/csm/blob/main/docs/COMMITTER_GUIDE.md)
+* [Contributing Guide](https://github.com/khareRajshree/csm/blob/main/docs/CONTRIBUTING.md)
+* [List of Adopters](https://github.com/khareRajshree/csm/blob/main/docs/ADOPTERS.md)
+* [Support](https://github.com/khareRajshree/csm/blob/main/docs/SUPPORT.md)
+* [Security](https://github.com/khareRajshree/csm/blob/main/docs/SECURITY.md)
 * [About](#about)
 
 ## Support
 
 Don’t hesitate to ask! Contact the team and community on our [support](./docs/SUPPORT.md) page.
-Open an issue if you found a bug on [Github Issues](https://github.com/dell/dell-csi-extensions/issues).
+Open an issue if you found a bug on [Github Issues](https://github.com/khareRajshree/dell-csi-extensions/issues).
 
 ## Versioning
 

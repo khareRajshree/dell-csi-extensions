@@ -1,4 +1,4 @@
-module github.com/dell/dell-csi-extensions/common
+module github.com/khareRajshree/dell-csi-extensions/common
 
 go 1.24
 
